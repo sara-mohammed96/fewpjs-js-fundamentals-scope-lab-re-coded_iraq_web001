@@ -16,6 +16,6 @@ function add2(n) {
  
 
   // Feel free to move things around!
-  two = 2
+  two = 2;
    return n + two
 }
